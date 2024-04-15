@@ -207,7 +207,7 @@ footer p {
 	}
 	article img { max-width: 30%; }
 	#speakers {
-		column-count: 2;
+		column-count: 1;
 	}
 	#nav_menu {
 		display: none;
