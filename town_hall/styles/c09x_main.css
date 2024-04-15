@@ -86,7 +86,7 @@ header img {
 /* the styles for the main content */
 main {
     display: flex;
-	justify-content: space-evenly;
+	justify-content: space-between;
 	list-style-type: none;
 }
 
