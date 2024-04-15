@@ -86,6 +86,7 @@ header img {
 /* the styles for the main content */
 main {
     display: flex;
+	justify-content: space-evenly;
 }
 
 /* the styles for the section */
